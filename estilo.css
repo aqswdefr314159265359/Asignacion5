@@ -1,0 +1,42 @@
+body{
+    background-color: lightslategray;
+}
+h1{
+    font-size: 30px;
+    text-align: center;
+}
+
+h2{
+    
+    font-size: 20px;
+}
+a{
+    font-size: 20px;
+    
+}
+
+div#contenedor{
+    width: 150px;
+    height: 25px;
+    margin-left: 400px ;
+    background-color: grey;
+    border-radius: 20px;
+    text-align: center;
+}
+
+div#contenido{
+    width: auto;
+    height: auto;
+    
+}
+div#descargacss{
+    width: 150px;
+    height: 25px;
+    background-color: grey;
+    margin-top: -25px;
+    margin-left: 590px;
+    text-align: center;
+    border-radius: 20px;
+    align-self: center;
+}
+
